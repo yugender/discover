@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">discover</string>
+    <string name="search_title">Search</string>
+    <string name="search_filters_begin_date">Begin Date</string>
+    <string name="search_filters_sort_order">Sort Order</string>
+    <string name="search_filters_news_desk_values">News Desk Values</string>
+    <string name="search_filters_check_box_arts">Arts</string>
+    <string name="search_filters_check_box_fashion_style">Fashion &amp; Style</string>
+    <string name="search_filters_check_box_sports">Sports</string>
+    <string name="search_filters_button_save">Save</string>
+</resources>
